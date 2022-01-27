@@ -1,0 +1,32 @@
+body{
+    background-image: url("img/Vini\ Jr.jpg");
+    background-size: auto;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+header{
+    color:sandybrown;
+    background-color:aquamarine ;
+    text-transform: uppercase;
+}
+
+section{
+    color: cadetblue;
+}
+
+.importante{
+    background-color: tan;
+}
+
+.secundaria{
+    background-color: teal;
+}
+
+.terciaria{
+    background-color: wheat;
+}
+
+#titulo{
+    font-size: 50px;
+}
